@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greeter-react/static/css/main.b9925be7.css",
+    "main.js": "/greeter-react/static/js/main.c303c985.js",
+    "index.html": "/greeter-react/index.html",
+    "main.b9925be7.css.map": "/greeter-react/static/css/main.b9925be7.css.map",
+    "main.c303c985.js.map": "/greeter-react/static/js/main.c303c985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9925be7.css",
+    "static/js/main.c303c985.js"
+  ]
+}
